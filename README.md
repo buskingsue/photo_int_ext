@@ -3,3 +3,4 @@
 ## PA5핀 입력
 ## debug live expression
 ## rxData
+## debug and resume (f8)
